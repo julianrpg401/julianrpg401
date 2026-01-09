@@ -2,7 +2,7 @@
 I am a passionate junior developer with a year of experience in various areas of web development and design. I have strong skills in HTML, CSS and JavaScript, as well as in creating responsive websites using Bootstrap. My experience in C# and ASP.NET has allowed me to develop robust and efficient web applications.<br><br>I also have a background in graphic design, especially Illustrator, which enables me to design logos and other visual elements with a high level of quality. I also have experience in database management with SQL Server, which allows me to integrate and manage data efficiently in my projects.<br><br>
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 Take a look at my set of technologies</h1>
 
 ###
 
@@ -52,13 +52,12 @@ I am a passionate junior developer with a year of experience in various areas of
 
 ###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=julianrpg401&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=julianrpg401&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=julianrpg401&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianrpg401&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=julianrpg401&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=julianrpg401&icon=5&color=9)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=julianrpg401&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
